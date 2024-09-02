@@ -1,0 +1,29 @@
+﻿Assemblage,Core_chunk,Core_nonhierarch,Core_radial,Core_hierarch_bifac,Core_hirearch_unifac,Core_bipolar,Core_on_flake,Discoid,Segment_bipolar,Core_maint_flake,Core_fragment,Microdeb,Chunks,Flake_fragment,Blade_frag,Flakes_complete,Flakes_edgedam,Blade,Bladelet,Burin_spall,Anvil,Hammerstone,Grindstone,Spheroid,Chunk_edgedam,Scrapers,Backed_piece,Adze,Notch/denticulate,Misc_coretool,Awl/bec,Borer,Pick,Core-axe,Point_undiag,Point_unifac,Point_bifac,Point_ret,LCT_other,LCT_contigret,LCT_biface,LCT_cleaverbifac,LCT_unifac,Burin,Misc_retouch,Tranchet,Technocomplex,Age_ka_median,Rawmat_dominant,Country
+Mumbwa,202,278,139,42,34,24,10,20,14,50,140,44658,242,7016,0,1726,98,46,8,0,0,17,3,11,0,56,15,3,17,0,33,30,0,0,1,4,0,9,0,0,0,0,0,2,26,1,MSA,160,Quartz,Zambia
+Twin Rivers,36,75,17,13,11,41,20,2,20,34,29,0,0,0,0,1036,46,22,17,7,0,0,0,0,0,29,29,1,6,0,42,2,2,0,0,0,3,5,0,0,0,0,0,6,13,6,MSA,335,Quartz,Zambia
+Kalambo Falls Site C,10,53,1,10,4,0,8,6,0,0,7,10,8,10,1,473,5,1,0,0,1,6,1,0,3,8,1,4,6,0,4,0,10,2,0,0,2,0,2,1,5,3,0,0,5,2,EMSA,315,Quartzite,Zambia
+Kerratic Koppie,5,27,16,4,,4,,,,,5,2092,172,331,,169,2,,,,,4,,,,,,,3,,,,1,1,,,,,,,,1,1,,,,ESA,,Quartzite,South Africa
+Hackthorn,16,55,28,10,,,,,27,51,18,5848,703,1140,,687,,,,,,11,,,,1,,,25,,,,6,,,,,,,,1,1,1,,,,ESA,,Quartzite,South Africa
+Kudu Koppie,5,89,36,47,8,14,0,0,9,23,16,15789,1421,2707,0,451,4,0,0,0,0,15,0,0,0,14,2,0,71,0,0,1,0,1,1,0,0,0,0,2,0,0,0,1,22,0,EMSA,,Quartzite,South Africa
+Erb Tanks,,18,,13,,,,,,32,26,,,,,18,,29,,,,,,,,9,,,14,,,,,,,10,,2,,,,,,,2,,MSA,90,Quartz,Namibia
+Florisbad,,12,,2,1,,5,,1,32,3,1358,38,135,279,109,,51,,,,2,,4,,5,9,,1,,,,,,,1,,1,,,,,,2,3,,MSA,200,Hornfels,South Africa
+Gi,,226,182,4,,,76,,,4,12,3273,151,502,,306,579,,,,,,,1,,365,,,70,,18,,,,34,317,266,,,,,,,,195,,MSA,77,Chalcedony,Botswana
+Canteen Koppie,,691,,126,49,,,62,,,,,,20475,,8317,,,,22,,,,,,27,,,13,,,,,,,,,7,47,,45,66,,55,24,,ESA,400,Andesite,South Africa
+Pinnacle Point,11,23,13,7,7,,13,,,13,18,,,461,,1206,,104,68,,,15,,,,2,,,,,,,,,131,,,,,,,,,,24,,MSA,160,Quartzite,South Africa
+Lincoln Cave,5,11,,,,,,,1,,,35,6,27,,22,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ESA,184,Quartz,South Africa
+Sterkfontein,60,209,,,,7,5,10,,,11,19,102,33,,21,,1,,,,,,,2,,,,,,,,,,,,,,7,,,,,,3,,ESA,184,NA,South Africa
+"Olduvai Gorge, DGS",10,33,,2,1,,,26,,35,,44,63,,14,732,,2,,,1,5,,,,6,,,19,,1,,,1,,4,,,,,,,,,13,,MSA,77,Quartz,Tanzania
+"Olduvai Gorge, VCS",1,8,,1,,,,,,,,,,,,74,,1,,,,,,,,3,,,4,,,,,1,,1,,,,,,,,,,,MSA,80,Quartz,Tanzania
+Magubike Rockshelter,,77,,,,424,,,,,,12189,,,,3268,415,298,,,,,,,,245,240,,,,,,,,76,,,,,,,,,,,,MSA,120,Quartz,Tanzania
+"Omo Kibish, KS",,7,,10,,,,1,,6,6,148,1,65,,67,,2,,,,2,,,,5,3,,5,,1,,,,1,2,,,,,1,,,,,,MSA,265,Chert,Ethiopia
+"Omo Kibish, AHS",,6,,4,,,3,12,,43,10,6377,19,669,,472,,4,,,,,,,,24,2,,9,,4,,,,,54,9,2,,,1,,,,12,,MSA,265,Chert,Ethiopia
+"Omo Kibish, BNS",,8,,8,,,2,41,,62,15,999,16,349,,373,,4,,,,,,,,8,6,,,,,,,,,22,8,,,,,,,,2,,MSA,265,Chert,Ethiopia
+Bundu Farm,0,140,140,103,0,19,0,0,0,0,0,0,1096,0,0,2452,0,0,0,0,0,0,0,0,0,TRUE,0,0,TRUE,74,0,TRUE,0,0,0,0,0,7,0,0,1,0,0,TRUE,TRUE,,EMSA,245,Quartzite,South Africa
+Kathu Pan,,93,36,168,58,,,,,,,139,93,566,,232,,213,,,,2,,,,91,,,36,,,,,,,,,42,,,4,,,,27,,ESA,503,Banded ironstone,South Africa
+Wonderwerk,,20,,12,3,,,15,,,,,,40,,83,,9,,,,,,1,,10,,,3,,,,,,,,,,,,,,,,,,MSA,100,Chert,South Africa
+Ngalue Cave,TRUE,TRUE,,TRUE,,,,TRUE,,,,,,TRUE,,TRUE,,,,,,,TRUE,,,TRUE,,,TRUE,,TRUE,,,TRUE,TRUE,TRUE,,,,,,,,TRUE,TRUE,,MSA,75,Quartz,Mozambique
+Etemba 14,TRUE,TRUE,,,,,,TRUE,,TRUE,TRUE,TRUE,,TRUE,,TRUE,,TRUE,TRUE,,,TRUE,,,,TRUE,,,TRUE,,,,,,TRUE,TRUE,,TRUE,,,,,,,TRUE,,MSA,300,Quartz,Namibia
+Pniel 6,,,TRUE,TRUE,TRUE,,TRUE,,,TRUE,,TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,,,,,,,TRUE,,,,,,TRUE,TRUE,,TRUE,,,TRUE,,,,TRUE,,MSA,215,Hornfels,South Africa
+Border Cave,,TRUE,TRUE,TRUE,,TRUE,,,TRUE,,,3527,,TRUE,TRUE,TRUE,,TRUE,TRUE,,,,,,,TRUE,TRUE,,TRUE,,,,,,,TRUE,,TRUE,,,,,,,,,MSA,145,Rhyolite,South Africa
+Pomongwe Cave,,569,TRUE,590,TRUE,,,TRUE,,,,,,TRUE,,TRUE,,TRUE,,,TRUE,TRUE,,,,TRUE,,,TRUE,TRUE,,,,TRUE,,,,,,,,,,,,,MSA,255,Quartz,Zimbabwe
+Kabwe,,,1,1,1,1,2,5,,1,,,,,11,6,10,2,,,,2,1,2,,5,2,,1,,1,2,2,,,3,,,,,,,,,3,,MSA,225,Quartz,Zambia
